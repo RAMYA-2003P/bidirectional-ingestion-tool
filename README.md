@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# bidirectional-ingestion-tool
+=======
+>>>>>>> preserved
 # ClickHouse FlatFile Ingestion Tool
 
 ## Project Structure
@@ -16,3 +22,7 @@
 - `npm start`
 
 Ensure ClickHouse is running and accessible.
+<<<<<<< HEAD
+=======
+>>>>>>> dff33f0 (Initial commit of Bidirectional Data Ingestion Tool)
+>>>>>>> preserved
